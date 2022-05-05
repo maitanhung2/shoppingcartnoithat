@@ -1,0 +1,16 @@
+{
+  "_id": { "$oid": "60929cd56ce96574b4508dbf" },
+  "fullNameCustomer": { "firstName": "Mai Tấn", "lastName": "Hưng" },
+  "dateOfBirth": "07/11/2000",
+  "identityCardNumber": "331858506",
+  "address": "Đà Nẵng",
+  "phoneNumber": "0932109005",
+  "email": "maitanhung2@gmail.com",
+  "loginInformation": {
+    "userName": "admin",
+    "password": "123",
+    "type": "Admin",
+    "roles": ["All"]
+  },
+  "avatar": "/uploads/user-01.png"
+}
